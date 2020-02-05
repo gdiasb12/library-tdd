@@ -12,3 +12,4 @@
 */
 
 Route::resource('/books', 'BookController');
+Route::resource('/authors', 'AuthorController');
